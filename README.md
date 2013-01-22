@@ -18,7 +18,7 @@ Then run
 
 With this setup grunt can auto lint your code with a defined set of coding standards in `.jshintrc`.
 
-  grunt watch
+    grunt watch
 
 Your code will get linted on save. This has the advantage of not having to setup auto linting in text editors for a team of developers. This example lints the Gruntfile.js file.
 

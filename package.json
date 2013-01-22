@@ -1,0 +1,15 @@
+{
+  "name": "grunt-lint-example",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Grunt setup with .jshintrc",
+  "main": "grunt.js",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-jshint": "~0.1.0",
+    "grunt-contrib-watch": "~0.1.0"
+  },
+  "repository": "https://github.com/shapeshed/grunt-example.git",
+  "author": "George Ornbo",
+  "license": "MIT"
+}
